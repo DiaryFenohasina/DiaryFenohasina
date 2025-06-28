@@ -1,11 +1,10 @@
-<!-- Bannière animée -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Salut+%F0%9F%91%8B%2C+je+suis+Diary;Fullstack+Developer+%F0%9F%9A%80;PHP+%7C+Laravel+%7C+Node.js+%7C+Vue+%7C+Angular+%7C+SpringBoot+%7C+Express.js" alt="Typing SVG" />
-</p>
-
+<!-- Banner animé avec GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
+
+<h1 align="center">Salut 👋, moi c'est Diary</h1>
+<h3 align="center">Développeur Fullstack passionné</h3>
 
 ---
 
@@ -29,10 +28,17 @@
 - 🔭 Développeur **Fullstack** avec une passion pour le **backend** et une touche de **frontend**.
 - 🌱 Toujours curieux d’apprendre de nouvelles technologies.
 - 👨‍💻 J’adore transformer des idées en produits réels et fonctionnels.
-- 📫 Contact : [richartsdiaryfenohasina@gmail.com] • [https://www.linkedin.com/in/diary-richarts-bb8913236/]
+- 📫 Contact : [richartsdiaryfenohasina@gmail.com](mailto:richartsdiaryfenohasina@gmail.com) • [LinkedIn](https://www.linkedin.com/in/diary-richarts-bb8913236/)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiaryFenohasina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Signature commit animé -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=300&lines=Diary+🚀;Commit+in+progress...;Keep+Coding+💻" alt="Diary Commit Animation" />
 </p>
