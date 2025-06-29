@@ -3,7 +3,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
-<h1 align="center">Salut 👋, moi c'est Diary</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Salut+%F0%9F%91%8B%2C+je+suis+Diary;Fullstack+Developer+%F0%9F%9A%80;JS+%7C+PHP+%7C+Java" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Développeur Fullstack passionné</h3>
 
 ---
