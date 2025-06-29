@@ -18,7 +18,7 @@
 
 ---
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
@@ -52,11 +52,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiaryFenohasina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<!-- Signature commit animé -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=300&lines=Diary+🚀;Commit+in+progress...;Keep+Coding+💻" alt="Diary Commit Animation" />
 </p>
