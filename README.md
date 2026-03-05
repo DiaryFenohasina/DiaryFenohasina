@@ -49,7 +49,7 @@
 - 🔭 Développeur **Fullstack** avec une passion pour le **backend** et une touche de **frontend**.
 - 🌱 Toujours curieux d’apprendre de nouvelles technologies.
 - 👨‍💻 J’adore transformer des idées en produits réels et fonctionnels.
-- 📫 Contact : [richartsdiaryfenohasina@gmail.com](mailto:richartsdiaryfenohasina@gmail.com) • [LinkedIn](https://www.linkedin.com/in/diary-richarts-bb8913236/)
+- 📫 Contact : [richartsdiaryfenohasina@gmail.com](mailto:richartsdiaryfenohasina@gmail.com) • [LinkedIn](https://www.linkedin.com/in/diary-richarts-bb8913236/) • [Portfolio](https://diary-richarts-portfolio.vercel.app/)
 
 ---
 
